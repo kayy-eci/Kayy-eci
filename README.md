@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=kayy-eci&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kayy-eci&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxmMWZzMWRkb3dsY2ZxYmZoMXdxNDB1cjAwbXd3eTc0cWZkaHBjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfYmlfaWQmY3Q9Zw/RZo6HXDTlBftS/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxmMWZzMWRkb3dsY2ZxYmZoMXdxNDB1cjAwbXd3eTc0cWZkaHBjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfYmlfaWQmY3Q9Zw/RZo6HXDTlBftS/giphy.gif" width="400">
 
 ---
 [![](https://komarev.com/ghpvc/?username=kayy-eci&icon=0&color=0)](https://visitcount.itsvg.in)
