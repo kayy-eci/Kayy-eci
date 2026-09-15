@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=kayy-eci&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kayy-eci&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://tenor.com/view/chained-soldier-kyouka-uzen-anine-2d-animation-wind-gif-9297496433229317994" width="400">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc3ZGdseW11NmgzbjVyNnhieGppcTZxNG9zM3Q1NzR2N3E0Y3JvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6nqQynn6U8vNnqLziS/giphy.gif" width="400">
 
 ---
 [![](https://komarev.com/ghpvc/?username=kayy-eci&icon=0&color=0)](https://visitcount.itsvg.in)
