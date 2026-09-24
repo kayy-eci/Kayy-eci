@@ -21,8 +21,8 @@
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
     <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
   </p>
-  
-
+  <br/>
+  <i>"Embrace mistake not failure"<i>
 </div>
 
 <br>
@@ -92,11 +92,9 @@
     <a href="https://npmjs.com"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   </p>
 </details>
+
 ---
 
 ![@Kayy-eci's DevQuest Streak Flame](https://devquest-mu.vercel.app/card/Kayy-eci.svg?template=streak-flame&style=minimal&theme=dracula&accent=FF4FA3) <br/>
 
 
-
-
----
