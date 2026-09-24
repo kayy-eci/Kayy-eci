@@ -62,6 +62,43 @@
 </details>
 
 <details>
+  <summary><b> Machine Learning & AI </b></summary>
+  <br/>
+  <p align="left">
+     [
+
+](https://www.python.org/)
+[
+
+](https://www.tensorflow.org/)
+[
+
+](https://pytorch.org/)
+[
+
+](https://scikit-learn.org/)
+[
+
+](https://keras.io/)
+[
+
+](https://pandas.pydata.org/)
+[
+
+](https://numpy.org/)
+[
+
+](https://jupyter.org/)
+[
+
+](https://openai.com/)
+[
+
+](https://huggingface.co/)
+  </p>
+</details>
+
+<details>
   <summary><b> Databases & ORMs</b></summary>
   <br/>
   <p align="left">
