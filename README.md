@@ -48,6 +48,8 @@
     <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
     <a href="https://ui.shadcn.com"><img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></a>
     <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+    <a> <img src="https://img.shields.io/badge/gsap-%230AE448.svg?style=for-the-badge&amp;logo=gsap&amp;logoColor=white" alt="GSAP">&#39; </a>
+    <a> <img src="https://img.shields.io/badge/chart.js-%23F5788D.svg?style=for-the-badge&amp;logo=chart.js&amp;logoColor=white" alt="Chart.js"> </a>
   </p>
 </details>
 
