@@ -65,7 +65,7 @@
   <summary><b> Machine Learning & AI </b></summary>
   <br/>
   <p align="left">
-    ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+    <a>![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</a>
   </p>
 </details>
 
