@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc3ZGdseW11NmgzbjVyNnhieGppcTZxNG9zM3Q1NzR2N3E0Y3JvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6nqQynn6U8vNnqLziS/giphy.gif" width="100%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc3ZGdseW11NmgzbjVyNnhieGppcTZxNG9zM3Q1NzR2N3E0Y3JvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6nqQynn6U8vNnqLziS/giphy.gif" width="95%"/>
 </p>
 
-
+<>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaie.ci) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kayy9321) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kai_need_sleep) 
