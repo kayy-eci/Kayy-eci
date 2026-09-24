@@ -2,7 +2,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc3ZGdseW11NmgzbjVyNnhieGppcTZxNG9zM3Q1NzR2N3E0Y3JvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6nqQynn6U8vNnqLziS/giphy.gif" width="95%"/>
 </p>
 
-<>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4487&pause=782&color=FF4FA3&center=true&width=435&lines=Always+learning+new+things;Coding+%7C+Machine+learning+" alt="Typing SVG" /></a>
+</h1>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaie.ci) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kayy9321) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kai_need_sleep) 
