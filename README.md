@@ -8,8 +8,8 @@
   </a>
 </h1>
 
----
-### Tech Stacks:
+
+# Tech Stacks:
 
 <div align="center">
   <h4> Main Stack</h4>
