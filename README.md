@@ -1,8 +1,5 @@
 ![@Kayy-eci's DevQuest Aurora](https://devquest-mu.vercel.app/card/Kayy-eci.svg?template=aurora&style=outrun&theme=dracula&accent=FF4FA3) <br/>
 
-![@Kayy-eci's DevQuest About Me](https://devquest-mu.vercel.app/card/Kayy-eci.svg?template=about-me&style=glass&theme=dracula&accent=FF4FA3)
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaie.ci) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kayy9321) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kai_need_sleep) 
 
