@@ -48,7 +48,7 @@
     <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
     <a href="https://ui.shadcn.com"><img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></a>
     <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-    <a> <img src="https://img.shields.io/badge/gsap-%230AE448.svg?style=for-the-badge&amp;logo=gsap&amp;logoColor=white" alt="GSAP">&#39; </a>
+    <a> <img src="https://img.shields.io/badge/gsap-%230AE448.svg?style=for-the-badge&amp;logo=gsap&amp;logoColor=white" alt="GSAP"> </a>
     <a> <img src="https://img.shields.io/badge/chart.js-%23F5788D.svg?style=for-the-badge&amp;logo=chart.js&amp;logoColor=white" alt="Chart.js"> </a>
   </p>
 </details>
@@ -60,6 +60,8 @@
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
     <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
     <a href="https://djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+    <a> <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&amp;logo=nodemon&amp;logoColor=%BBDEAD" alt="Nodemon"> </a>
+    <a> <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&amp;logo=zod&amp;logoColor=white" alt="Zod"> </a>
   </p>
 </details>
 
