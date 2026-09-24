@@ -65,36 +65,7 @@
   <summary><b> Machine Learning & AI </b></summary>
   <br/>
   <p align="left">
-     [
-
-](https://www.python.org/)
-[
-
-](https://www.tensorflow.org/)
-[
-
-](https://pytorch.org/)
-[
-
-](https://scikit-learn.org/)
-[
-
-](https://keras.io/)
-[
-
-](https://pandas.pydata.org/)
-[
-
-](https://numpy.org/)
-[
-
-](https://jupyter.org/)
-[
-
-](https://openai.com/)
-[
-
-](https://huggingface.co/)
+    ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   </p>
 </details>
 
