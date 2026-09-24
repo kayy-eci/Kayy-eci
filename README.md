@@ -66,6 +66,9 @@
   <br/>
   <p align="left">
     <p><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"></p>
+    <p><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas"></p>
+    <p><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"></p>
+    <p><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow"></p>
   </p>
 </details>
 
