@@ -111,5 +111,8 @@
 </details>
 
 ---
-![](https://streak-stats.demolab.com/?user=kayy-eci&theme=dracula&hide_border=false)<br/>
+
+<div align="center">
+  ![](https://streak-stats.demolab.com/?user=kayy-eci&theme=dracula&hide_border=false)<br/>
+</div>
 
