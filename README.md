@@ -111,7 +111,5 @@
 </details>
 
 ---
-
-![@Kayy-eci's DevQuest Streak Flame](https://devquest-mu.vercel.app/card/Kayy-eci.svg?template=streak-flame&style=minimal&theme=dracula&accent=FF4FA3) <br/>
-
+![](https://streak-stats.demolab.com/?user=kayy-eci&theme=dracula&hide_border=false)<br/>
 
