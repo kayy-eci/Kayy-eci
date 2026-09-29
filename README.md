@@ -113,6 +113,6 @@
 ---
 
 <p align="center">
-  ![](https://streak-stats.demolab.com/?user=kayy-eci&theme=dracula&hide_border=false)<br/>
+  <img src="https://streak-stats.demolab.com/?user=kayy-eci&amp;theme=dracula&amp;hide_border=false" alt="streakgit"><br/>
 </p>
 
