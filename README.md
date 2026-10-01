@@ -62,6 +62,7 @@
     <a href="https://djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
     <a> <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&amp;logo=nodemon&amp;logoColor=%BBDEAD" alt="Nodemon"> </a>
     <a> <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&amp;logo=zod&amp;logoColor=white" alt="Zod"> </a>
+    <a><img src="https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT"></a>
   </p>
 </details>
 
