@@ -114,6 +114,6 @@
 ---
 
 <p align="center">
-  ![](https://streak-stats.demolab.com/?user=kayy-eci&theme=bear&hide_border=false)<br/>
+  <img src="https://streak-stats.demolab.com/?user=kayy-eci&amp;theme=bear&amp;hide_border=false" alt="">
 </p>
 
