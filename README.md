@@ -23,7 +23,7 @@
     <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
   </p>
   <br/>
-  <i>"Embrace mistake not failure"<i>
+  <i>"You'll lose a 100% of the shot you didn't make"<i>
 </div>
 
 <br>
